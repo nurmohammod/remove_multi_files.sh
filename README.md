@@ -1,0 +1,1 @@
+# remove_multi_files.sh
